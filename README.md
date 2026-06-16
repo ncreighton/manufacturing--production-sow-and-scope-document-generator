@@ -1,2 +1,25 @@
-# manufacturing--production-sow-and-scope-document-generator
-Streamline your manufacturing and production projects with this comprehensive SOW and Scope Document Generator. Designed for factory managers, production planners, and engineering teams, this template pack eliminates guesswork by providing structured, customizable outlines for statements of work and scope definitions. Each template covers essential
+# Manufacturing & Production SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY4gzbHh5wg3lmavOd0b1f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY4gzbHh5wg3lmavOd0b1f)
+
